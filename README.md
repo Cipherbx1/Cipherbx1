@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Cipherbx1
-- 👀 I’m interested in gaming, ai, ml, music :)
+- 👀 I’m interested in gaming, ai, music, riding bike :)
 - 🌱 I’m currently learning ai, ml, python, pandas lib.
 - 💞️ I’m looking to collaborate on python projects.
 - 📫 You can reach me on my mail, cipherbx1@gmail.com
